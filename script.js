@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Esther? Just say HELLO to get started.')
+            return bot.say('Selamat datang di Kredibel. Saya adalah chatbot dan saya di sini akan membantu anda memakai jasa Kredibel. Cukup ketik MULAI untuk memulai pembicaraan.')
                 .then(() => 'speak');
         }
     },
