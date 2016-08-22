@@ -3,8 +3,7 @@
     "HELLO": "Selamat datang. Apakah anda hendak mengajukan pinjaman? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "DAFTAR" : "Isi info di bawah ini dengan akurat.\nKetidaksesuaian data akan memperlambat pencairan pinjaman anda.\nIdentitas",
-    "BIO" : "Nama Lengkap sesuai KTP:\nAlamat sesuai KTP:\nAlamat optional jika anda tinggal di alamat yang berbeda dengan yang tertera di KTP:\nNIK:\nNo Hp:\nUsername Telegram:\nBio Pendek\nPekerjaan:
-sertakan jabatan dan nama perusahaan\nStatus Perkawinan:\nPeruntukan pinjaman. Jelaskan pada kami tujuan anda meminjam:",
+    "BIO" : "Nama Lengkap sesuai KTP:\nAlamat sesuai KTP:\nAlamat optional jika anda tinggal di alamat yang berbeda dengan yang tertera di KTP:\nNIK:\nNo Hp:\nUsername Telegram:\nBio Pendek\nPekerjaan: sertakan jabatan dan nama perusahaan\nStatus Perkawinan:\nPeruntukan pinjaman. Jelaskan pada kami tujuan anda meminjam:",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
