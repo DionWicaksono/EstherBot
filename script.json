@@ -1,9 +1,11 @@
 {
-    "/START": "Halo!\nSelamat datang di Kredibel, Online Lending Platform di Indonesia. Ada yang bisa saya bantu?\nPilih keperluan anda.%[Daftar](postback:daftar) %[Pinjam.](postback:here_for_the_bot) %[Apa itu Kredibel?](postback:learn_about_esther) %[Undang Teman!](postback:random_fact)",
+    "/START": "Halo!\nSelamat datang di Kredibel, Online Lending Platform di Indonesia. Ada yang bisa saya bantu?\nPilih keperluan anda.%[Daftar](postback:daftar) %[Pinjam](postback:pinjam) %[Apa itu Kredibel?](postback:info) %[Undang Teman!](postback:random_fact)",
     "HELLO": "Selamat datang. Apakah anda hendak mengajukan pinjaman? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "DAFTAR" : "Ketik: 'Bio' dan kirim, lalu isi info dengan akurat.\nKetidaksesuaian data akan memperlambat pencairan pinjaman anda.\nIdentitas",
     "BIO" : "Nama Lengkap sesuai KTP:\nAlamat sesuai KTP:\nAlamat optional jika anda tinggal di alamat yang berbeda dengan yang tertera di KTP:\nNIK:\nNo Hp:\nUsername Telegram:\nBio Pendek\nPekerjaan: sertakan jabatan dan nama perusahaan\nStatus Perkawinan:\nPeruntukan pinjaman. Jelaskan pada kami tujuan anda meminjam:",
+    "INFO" : "Kredibel.co adalah perusahaan rintisan atau startup yang menyediakan layanan pinjam-meminjam. Ketik 'Paket' untuk mengetahui Paket Pinjaman yang tersedia. Ketik 'Kalkulator' untuk simulasi pinjaman. Ketik 'Syarat' untuk syarat dan ketentuan.",
+    "PINJAM" : "Jumlah atau Nama Paket:\nKeperluan:", 
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
