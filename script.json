@@ -1,5 +1,5 @@
 {
-    "/START": "Halo!\nSelamat datang di Kredibel, Online Lending Platform di Indonesia. Ada yang bisa saya bantu?\nPilih keperluan anda.%[Daftar](postback:here_for_the_bot) %[Pinjam.](postback:here_for_the_bot) %[Apa itu Kredibel?](postback:learn_about_esther) %[Undang Teman!](postback:random_fact)",
+    "/START": "Halo!\nSelamat datang di Kredibel, Online Lending Platform di Indonesia. Ada yang bisa saya bantu?\nPilih keperluan anda.%[Daftar](postback:daftar) %[Pinjam.](postback:here_for_the_bot) %[Apa itu Kredibel?](postback:learn_about_esther) %[Undang Teman!](postback:random_fact)",
     "HELLO": "Selamat datang. Apakah anda hendak mengajukan pinjaman? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "DAFTAR" : "Isi info di bawah ini dengan akurat.\nKetidaksesuaian data akan memperlambat pencairan pinjaman anda.\nIdentitas : 
