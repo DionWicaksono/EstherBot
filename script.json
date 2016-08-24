@@ -1,4 +1,5 @@
 {
+    "alignment": "center",
     "/START": "Halo!\nSelamat datang di Kredibel, Online Lending Platform di Indonesia. Ada yang bisa saya bantu?\nPilih keperluan anda.%[Daftar](postback:daftar) %[Pinjam](postback:pinjam) %[Apa itu Kredibel?](postback:info) %[Undang Teman!](postback:random_fact)",
     "HELLO": "Selamat datang. Apakah anda hendak mengajukan pinjaman? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
@@ -9,5 +10,4 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
-    "alignment": "center"
 }
